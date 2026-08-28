@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**amitisy67/amitisy67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Amitis! I'm a Computer Science student who loves building things with code. 
+I'm currently learning Python, exploring AI, and creating projects to improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python projects
+- Productivity tools
+- Learning software development practices
+- Exploring AI and automation
+
+## 🛠️ Tools & Technologies
+
+- Python 🐍
+- Git & GitHub
+- VS Code
+- OOP
+- JSON
+
+## 🤝 Let's Connect
+
+I'm always happy to meet other developers, share ideas, and collaborate on projects!
