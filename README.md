@@ -1,22 +1,25 @@
-## 👋 About Me
+## 👋 Hi, I'm Amitis
 
-Hi, I'm Amitis! I'm a Computer Science student who loves building things with code. 
-I'm currently learning Python, exploring AI, and creating projects to improve my skills.
+Computer Science student from Tehran who loves building practical tools with Python.
+I'm especially interested in making technology work better for Persian speakers.
 
 ## 🚀 What I'm Working On
 
-- Python projects
-- Productivity tools
-- Learning software development practices
+- Telegram and Bale bots
+- Text-to-speech and productivity tools
+- Learning software development best practices
 - Exploring AI and automation
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech I Use
 
-- Python 🐍
-- Git & GitHub
-- VS Code
-- OOP
-- JSON
+**Language:** Python 🐍  
+**Focus:** Telegram/Bale bots, text-to-speech, CLI apps  
+**Tools:** Git, GitHub, VS Code  
+**Concepts:** OOP, JSON storage, modular design
+
+## 🌱 Currently Learning
+
+Testing, project structure, and building larger projects.
 
 ## 🤝 Let's Connect
 
