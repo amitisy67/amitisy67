@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Amitis 🎀
 
-Computer Science student from Tehran who loves building practical tools with Python 🐍✨👩‍💻
+Computer Science student from Tehran who loves building practical tools with Python
+ 🐍✨👩‍💻
 I'm especially interested in making technology work better for Persian speakers 
 
 ## 🚀 What I'm Working On
@@ -25,6 +26,8 @@ Testing, project structure, and building larger projects
 
 I'm always happy to meet other developers, share ideas, and collaborate on projects! 🎀
 📧 amitisy67@gmail.com 
+
+
 Instagram 🆔: amitisyousefii
 
 
